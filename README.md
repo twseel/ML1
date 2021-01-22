@@ -1,2 +1,2 @@
 # ML1
-Machine Learning 1 Project 2021
+This is the repository for the project for Machine Learning 1 on the UA
